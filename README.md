@@ -118,13 +118,5 @@ RESTAURANT_BILLING/
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](outputs\Home_Page.png)
-
-### 🧾 Bill Summary
-![Bill Summary](C:\Users\saine\OneDrive\Desktop\BroskiesHub\Restaurant_Billing\outputs\Bill_Summary.png)
-
----
 
