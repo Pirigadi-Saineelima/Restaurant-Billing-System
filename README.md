@@ -124,7 +124,7 @@ RESTAURANT_BILLING/
 ![Home Page](outputs\Home_Page.png)
 
 ### 🧾 Bill Summary
-![Bill Summary 1](outputs\Bill_Summary.png)
+![Bill Summary](C:\Users\saine\OneDrive\Desktop\BroskiesHub\Restaurant_Billing\outputs\Bill_Summary.png)
 
 ---
 
